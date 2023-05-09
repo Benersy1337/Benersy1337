@@ -1,4 +1,3 @@
-- 🎓 I’m currently learning Front-End
 
 ##
 
